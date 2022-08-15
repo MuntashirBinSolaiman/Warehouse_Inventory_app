@@ -1,5 +1,5 @@
 # Warehouse_Inventory_app
-A warehouse inventory application that stores items and displays what has been stored.
+A warehouse inventory application that stores food items and displays what has been stored.
 
 Core competencies demonstrated: -
   •	Adherence to best practices in Android coding such as naming conventions of class level variables etc.
