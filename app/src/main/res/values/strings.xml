@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Warehouse Inventory App</string>
+    <string name="item_name_id">Item Name</string>
+    <string name="item_name_entry_id">Item Name Entry</string>
+    <string name="quantity_id">Quantity</string>
+    <string name="quantity_entry_id">Quantity Entry</string>
+    <string name="cost_id">Cost</string>
+    <string name="cost_entry_id">Cost Entry</string>
+    <string name="description_id">Description</string>
+    <string name="description_entry_id">Description Entry</string>
+    <string name="frozen_item_id">Frozen Item?</string>
+    <string name="add_new_item_id">ADD NEW ITEM</string>
+    <string name="clear_all_item_id">CLEAR ALL ITEM</string>
+    <string name="frozen_item_toggle_id">Yes or No</string>
+    <string name="frozen_item_toggle_textoff">No</string>
+    <string name="frozen_item_toggle_texton">Yes</string>
+    <string name="drawer_opened_id">Drawer is opened</string>
+    <string name="week_6_recycler_view_id">Week 6 recycler view</string>
+    <string name="drawer_closed_id">drawer is closed</string>
+    <string name="list_all_items_id">List All Items</string>
+    <string name="name_card_view_id">Name</string>
+    <string name="cost_card_view_id">Cost</string>
+    <string name="quantity_card_view_id">Quantity</string>
+    <string name="description_card_view_id">Description</string>
+    <string name="freeze_card_view_id">Freeze</string>
+</resources>
